@@ -1,5 +1,8 @@
 # shop_app
 
+Your Easy Shopping Hub – Pick, Cart, Share!
+Shopy is a cross-platform Flutter-based shopping application that offers users a seamless experience in browsing and selecting products. Users can effortlessly create orders by adding chosen items to the cart and confirming their selection. Additionally, Shopy empowers users to contribute to the online marketplace by allowing them to add and publish their own products.
+
 A new Flutter project (shop_app).
 
 ## Getting Started
